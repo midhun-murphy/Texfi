@@ -17,7 +17,7 @@ TexiFi converts business invoices into blockchain-based tokens (NFTs) on the **P
 
 
 ## Proof of Work
-See [`docs/POW.md`](./docs/POW.md) for:
+See [`docs/POW.md`](./docs/Pow.md) for:
 - Contract address
 - Mint transaction
 - IPFS CID
