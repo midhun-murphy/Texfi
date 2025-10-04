@@ -7,8 +7,8 @@
 - Address: 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4  <!-- Example Remix VM account -->
 - Deployed via: Remix IDE using Remix VM (Prague)
 - Explorer Link: Local blockchain
-  [Deployed Contract](./docs/deployed_contract.png)
-  [Verify Ownership](./docs/verify_ownership.png)
+  [Deployed Contract](./deployed_contract.png)
+  [Verify Ownership](./verify_ownership.png)
 
 ## IPFS
 - Uploaded invoice file: `Invoice.pdf`
