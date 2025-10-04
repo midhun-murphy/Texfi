@@ -14,7 +14,7 @@ TexiFi converts business invoices into blockchain-based tokens (NFTs) on the **P
 - **Language:** Solidity (via Remix)
 - **Storage:** IPFS 
 - **Wallet:** MetaMask
-- **Frontend (optional):** Simple Remix UI
+
 
 ## Proof of Work
 See [`docs/POW.md`](./docs/POW.md) for:
